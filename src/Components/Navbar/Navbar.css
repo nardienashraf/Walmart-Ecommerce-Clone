@@ -1,0 +1,18 @@
+#SearchResultList {
+  margin-left: 2px;
+  position: absolute;
+  max-width: 60.2em;
+  max-height: 10rem;
+  overflow-y: scroll;
+  width: 450px;
+  background: white;
+}
+.searchListResult {
+  padding: 6px 15px;
+  font-weight: bold;
+  flex: 1 1 auto;
+  color:black
+}
+.searchListResult:hover{
+  background-color: rgb(217, 220, 224);
+}
